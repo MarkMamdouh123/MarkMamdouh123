@@ -19,7 +19,7 @@
 
 ### Connect with Me :
 
-<a href="www.linkedin.com/in/mark-mamdouh-mageed-88592815" target="_blank"><img src="https://img.shields.io/badge/-Mark%20Mamdouh-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mark-mamdouh-mageed-885928155/" target="_blank"><img src="https://img.shields.io/badge/-Mark%20Mamdouh-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/MarkMamdouh123" target="_blank"><img src="https://img.shields.io/badge/Mark%20Mamdouh-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
