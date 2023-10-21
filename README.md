@@ -14,7 +14,7 @@
 
 - 🏢  I am Software Developer and currently a  Computer Science student at Ahram Canadian University
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬  I have major skills in C++,C#,Python
+- 💬  Feel free to check out my projects 
 
 
 ### Connect with Me :
