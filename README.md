@@ -73,8 +73,6 @@
 <div align="center">
 	
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MarkMamdouh123&show_icons=true&theme=dark&include_all_commits=true" alt="Mark's GitHub stats">
-  
-   &nbsp;&nbsp;&nbsp;
    
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarkMamdouh123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph" />
 </div>
