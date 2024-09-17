@@ -71,7 +71,7 @@
 <h2><img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="35"> Github Stats </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/username=MarkMamdouh123&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=MarkMamdouh123&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarkMamdouh123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 <p align="center">
@@ -91,4 +91,3 @@
 <p align = "center">
 	<img src = "https://github.com/MarkMamdouh123/MarkMamdouh123/blob/output/github-contribution-grid-snake-dark.svg" alt = "Snake Game"/>
 </p>
-
