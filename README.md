@@ -18,10 +18,10 @@
  
 <div align="center">
 	
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" style="float: left; margin-left: 0;" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="480" style="float: left; margin-left: 0;" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	
-  <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="290" style="float: right; margin-right: 0;" />
+  <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="280" style="float: right; margin-right: 0;" />
   
 </div>
 
