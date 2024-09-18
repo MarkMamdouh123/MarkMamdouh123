@@ -3,7 +3,7 @@
 
 <p align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome Stranger;Feel free to poke inside my profile;I am a mobile application developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome Stranger;Feel free to poke around my profile;I am a mobile application developer" alt="Typing SVG" />
 </p>
 
 <div align="center">
