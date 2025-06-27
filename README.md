@@ -71,22 +71,26 @@
 
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats</h2>
 
+<!-- GitHub Stats and Most Used Languages Side by Side -->
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarkMamdouh123&show_icons=true&theme=dark" height="190" alt="Mark's GitHub Stats" />
+  &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarkMamdouh123&locale=en&layout=compact&card_width=300&langs_count=5&theme=dracula" height="190" alt="languages graph" />
 </p>
 
+<!-- GitHub Streaks -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarkMamdouh123&theme=dark" alt="GitHub Streak" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MarkMamdouh123&show_icons=true&theme=dark" alt="Mark's GitHub Stats" height="190" />
-
+<!-- Activity Graph -->
 <p align="center">
   <a href="https://github.com/MarkMamdouh123">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarkMamdouh123&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
   </a>
 </p>
 
+<!-- GitHub Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MarkMamdouh123&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
