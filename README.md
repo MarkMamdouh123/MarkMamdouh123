@@ -79,7 +79,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarkMamdouh123&theme=dark" alt="GitHub Streak" />
 </p>
 
-![Mark's GitHub stats](https://github-readme-stats-mark123.vercel.app/api?username=MarkMamdouh123&show_icons=true&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=MarkMamdouh123&show_icons=true&theme=dark" alt="Mark's GitHub Stats" height="190" />
 
 <p align="center">
   <a href="https://github.com/MarkMamdouh123">
