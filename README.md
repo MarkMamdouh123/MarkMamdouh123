@@ -94,3 +94,9 @@
 <p align="center">
   <img src="https://github.com/MarkMamdouh123/MarkMamdouh123/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
 </p>
+<p align="center">
+  <a href="https://github.com/MarkMamdouh123">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarkMamdouh123&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
+  </a>
+</p>
+
