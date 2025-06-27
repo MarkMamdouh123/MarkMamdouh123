@@ -72,7 +72,7 @@
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MarkMamdouh123&show_icons=true&theme=dark&include_all_commits=true" height="190" alt="Mark's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarkMamdouh123&show_icons=true&theme=dark&include_all_commits=true" height="190" alt="Mark's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarkMamdouh123&locale=en&layout=compact&card_width=300&langs_count=5&theme=dracula" height="190" alt="languages graph" />
 </p>
 
