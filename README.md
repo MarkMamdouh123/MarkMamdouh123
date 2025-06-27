@@ -83,12 +83,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarkMamdouh123&theme=dark" alt="GitHub Streak" />
 </p>
 
-<!-- Activity Graph -->
-<p align="center">
-  <a href="https://github.com/MarkMamdouh123">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarkMamdouh123&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
-  </a>
-</p>
 
 <!-- GitHub Trophies -->
 <p align="center">
