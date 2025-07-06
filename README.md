@@ -89,7 +89,7 @@
 </p>
 
 
-<h2>🐍 Contribution (More like Contributionhsss)</h2>
+<h2>🐍 Contributions (More like Contributionhsss)</h2>
 
 <p align="center">
   <img src="https://github.com/MarkMamdouh123/MarkMamdouh123/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
